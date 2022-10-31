@@ -6,5 +6,6 @@ from dynamic_functions import check_3Digits
 #method_help()
 #function()
 #returnS()
-result = check_3Digits(200)
+#sum = 526 + 345
+result = check_3Digits([55, 99, 600, 78, 120, 500, 20, 78, 333])
 print(result)
